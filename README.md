@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Harold 👋
 
-<!--
-**ROIEngineer/ROIEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former sales professional turned **Software Engineer**, building practical, user-focused software with real business impact.
 
-Here are some ideas to get you started:
+I’m focused on strengthening my fundamentals and shipping portfolio-ready full‑stack projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech
+
+**Frontend:** HTML, CSS, JavaScript, React
+**Backend:** Node.js, Express, REST APIs
+**Tools:** Git, GitHub, MongoDB / SQL (as needed)
+
+---
+
+## 🚀 Projects
+
+Pinned repositories below showcase real-world inspired projects with clean code, clear documentation, and room to grow.
+
+---
+
+## 🎯 Goals
+
+* Land a **junior / entry-level software engineering role**
+* Keep building software that solves real problems
+
+---
+
+Thanks for stopping by!
+
