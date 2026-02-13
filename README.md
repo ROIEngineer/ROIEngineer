@@ -1,31 +1,112 @@
-# Hi, I'm Harold 👋
+# Harold Durant
 
-Former sales professional turned **Software Engineer**, building practical, user-focused software with real business impact.
+### Performance-Driven Full-Stack Engineer
 
-I’m focused on strengthening my fundamentals and shipping portfolio-ready full‑stack projects.
-
----
-
-## 🛠️ Tech
-
-**Frontend:** HTML, CSS, JavaScript, React
-**Backend:** Node.js, Express, REST APIs
-**Tools:** Git, GitHub, MongoDB / SQL (as needed)
+Backend-focused • Architecture-minded • Remote-ready
 
 ---
 
-## 🚀 Projects
+I build production-ready web applications with an obsession for performance, clean system boundaries, and long-term maintainability.
 
-Pinned repositories below showcase real-world inspired projects with clean code, clear documentation, and room to grow.
-
----
-
-## 🎯 Goals
-
-* Land a **junior / entry-level software engineering role**
-* Keep building software that solves real problems
+Currently pursuing **remote full-stack engineering roles** where disciplined execution and thoughtful backend architecture matter.
 
 ---
 
-Thanks for stopping by!
+## ⚙️ Engineering Focus
 
+* Backend-first mindset
+* Performance-conscious architecture
+* Clean dependency injection
+* Stable database lifecycle management
+* Production deployment discipline
+* Continuous algorithm refinement
+
+I care about how systems behave under the hood — not just how they look.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Node](https://img.shields.io/badge/Node.js-000000?style=flat\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat\&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat\&logo=postgresql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000000?style=flat\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat\&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat\&logo=html5)
+
+### Engineering & Deployment
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat\&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-000000?style=flat)
+
+Currently sharpening:
+**Algorithms • PostgreSQL performance • Systems thinking**
+
+---
+
+## 🧠 Featured Projects
+
+### 🚀 Productivity App
+
+Notes, Todos, and Pomodoro Timer in one focused workspace.
+
+* Refactored ESM/CommonJS runtime conflict
+* Migrated to injected `PostgreSQL` architecture
+* Open database lifecycle managed at startup
+* Converted backend to TypeScript
+
+---
+
+### 🌐 Portfolio Website
+
+Engineering hub showcasing deployed systems and architectural decisions.
+
+* Clean performance-focused UI
+* Structured documentation
+* Fully deployed
+
+---
+
+### 🌦 Weather Dashboard
+
+React weather app with clean separation of business logic and presentation.
+
+* Custom `useWeather` hook
+* Geolocation API integration
+* Persistent preferences
+* Graceful loading and error states
+
+---
+
+## 🧱 Engineering Principles
+
+```
+Open connections once.
+Inject dependencies.
+Separate logic from presentation.
+Optimize before scaling.
+Ship stable systems.
+```
+
+---
+
+## 🎯 Long-Term Direction
+
+Becoming a senior engineer specializing in scalable systems that solve meaningful global problems.
+
+Freedom through engineering discipline.
+
+---
+
+## 📫 Connect
+
+Portfolio → (link)
+LinkedIn → (link)
+Email → (email)
