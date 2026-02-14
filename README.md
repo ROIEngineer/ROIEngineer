@@ -107,6 +107,6 @@ Freedom through engineering discipline.
 
 ## 📫 Connect
 
-Portfolio → (link)
-LinkedIn → (link)
-Email → (email)
+Portfolio → [link](https://portfolio-web-six-ashen.vercel.app/)
+LinkedIn → [link](https://www.linkedin.com/in/harold-durant-381a982b0/)
+Email → [email](MrDurant2023@gmail.com)
