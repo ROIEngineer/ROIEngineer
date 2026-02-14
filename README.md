@@ -109,4 +109,4 @@ Freedom through engineering discipline.
 
 Portfolio → [link](https://portfolio-web-six-ashen.vercel.app/)
 LinkedIn → [link](https://www.linkedin.com/in/harold-durant-381a982b0/)
-Email → [email](MrDurant2023@gmail.com)
+Email → [MrDurant2023@gmail.com]
